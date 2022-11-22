@@ -39,8 +39,8 @@ const About = () => {
           <p>
             My name is Troy, and thank you for visiting my website! I have the skills and qualities of a full-stack web developer. I have experience working with other people; I am someone who is always seeking to learn and develop, and I have the creativity to help your business grow whilst offering excellent service to your customers. Outside of work I keep myself fit and active. I am a positive person who always embraces change, and I will always take responsibility for my own professional development.
           </p>
-
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+
         </div>
       </div>
     </section>
